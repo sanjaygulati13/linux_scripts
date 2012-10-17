@@ -1,0 +1,4 @@
+fn test.tcl > tclfiles.txt
+git init
+git add `cat tclfiles.txt `
+echo "*" >> .git/info/exclude

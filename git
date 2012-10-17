@@ -1,0 +1,4 @@
+git remote add divam_dm /delsoft/divamn/5view/dev_main/genesis/source
+git fetch divam_dm
+git checkout pst_enh
+
